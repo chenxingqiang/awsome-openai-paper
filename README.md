@@ -1,5 +1,9 @@
 # awsome-openai-paper
-openai paper searching
+## Author relate to OpenAI
+
+
+
+## openai paper searching
 
 
 | date_published 	| **blog_name** 	| **blog_link** 	| **paper_link** 	|
