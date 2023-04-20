@@ -1,0 +1,76 @@
+| date_published 	| types 	| blog_name 	| blog_link 	| paper_link 	|
+|---	|---	|---	|---	|---	|
+| June 28, 2022 	| conclusion 	| DALL·E 2 pre-training mitigations 	| https://openai.com/research/dall-e-2-pre-training-mitigations 	|  	|
+| June 9, 2022 	| conclusion 	| Techniques for training large neural networks 	| https://openai.com/research/techniques-for-training-large-neural-networks 	|  	|
+| April 13, 2022 	| conclusion 	| Measuring Goodhart’s law 	| https://openai.com/research/measuring-goodharts-law 	|  	|
+| March 3, 2022 	| conclusion 	| Lessons learned on language model safety and misuse 	| https://openai.com/research/language-model-safety-and-misuse 	|  	|
+| January 25, 2021 	| conclusion 	| Scaling Kubernetes to 7,500 nodes 	| https://openai.com/research/scaling-kubernetes-to-7500-nodes 	|  	|
+| July 4, 2018 	| conclusion 	| Learning Montezuma’s Revenge from a single demonstration 	| https://openai.com/research/learning-montezumas-revenge-from-a-single-demonstration 	|  	|
+| May 16, 2018 	| conclusion 	| AI and compute 	| https://openai.com/research/ai-and-compute 	|  	|
+| January 18, 2018 	| conclusion 	| Scaling Kubernetes to 2,500 nodes 	| https://openai.com/research/scaling-kubernetes-to-2500-nodes 	|  	|
+| September 29, 2017 	| conclusion 	| Nonlinear computation in deep linear networks 	| https://openai.com/research/nonlinear-computation-in-deep-linear-networks 	|  	|
+| April 1, 2017 	| conclusion 	| Spam detection in the physical world 	| https://openai.com/research/spam-detection-in-the-physical-world 	|  	|
+| March 16, 2017 	| conclusion 	| Learning to communicate 	| https://openai.com/research/learning-to-communicate 	|  	|
+| February 24, 2017 	| conclusion 	| Attacking machine learning with adversarial examples 	| https://openai.com/research/attacking-machine-learning-with-adversarial-examples 	|  	|
+| December 21, 2016 	| conclusion 	| Faulty reward functions in the wild 	| https://openai.com/research/faulty-reward-functions 	|  	|
+| August 29, 2016 	| conclusion 	| Infrastructure for deep learning 	| https://openai.com/research/infrastructure-for-deep-learning 	|  	|
+| March 14, 2023 	| milestone 	| GPT-4 	| https://openai.com/research/gpt-4 	| https://arxiv.org/abs/2303.08774 	|
+| September 21, 2022 	| milestone 	| Introducing Whisper 	| https://openai.com/research/whisper 	| https://cdn.openai.com/papers/whisper.pdf 	|
+| April 13, 2022 	| milestone 	| Hierarchical text-conditional image generation with CLIP latents 	| https://openai.com/research/hierarchical-text-conditional-image-generation-with-clip-latents 	| https://arxiv.org/abs/2204.06125 	|
+| January 27, 2022 	| milestone 	| Aligning language models to follow instructions 	| https://openai.com/research/instruction-following 	| https://arxiv.org/abs/2203.02155 	|
+| September 23, 2021 	| milestone 	| Summarizing books with human feedback 	| https://openai.com/research/summarizing-books 	|  	|
+| July 7, 2021 	| milestone 	| Evaluating large language models trained on code 	| https://openai.com/research/evaluating-large-language-models-trained-on-code 	| https://arxiv.org/abs/2107.03374 	|
+| March 4, 2021 	| milestone 	| Multimodal neurons in artificial neural networks 	| https://openai.com/research/multimodal-neurons 	| https://distill.pub/2021/multimodal-neurons/ 	|
+| January 5, 2021 	| milestone 	| DALL·E: Creating images from text 	| https://openai.com/research/dall-e 	|  	|
+| January 5, 2021 	| milestone 	| CLIP: Connecting text and images 	| https://openai.com/research/clip 	| https://arxiv.org/abs/2103.00020 	|
+| September 4, 2020 	| milestone 	| Learning to summarize with human feedback 	| https://openai.com/research/learning-to-summarize-with-human-feedback 	| https://arxiv.org/abs/2009.01325 	|
+| June 17, 2020 	| milestone 	| Image GPT 	| https://openai.com/research/image-gpt 	| https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf 	|
+| May 28, 2020 	| milestone 	| Language models are few-shot learners 	| https://openai.com/research/language-models-are-few-shot-learners 	| https://arxiv.org/abs/2005.14165 	|
+| April 30, 2020 	| milestone 	| Jukebox 	| https://openai.com/research/jukebox 	| https://arxiv.org/abs/2005.00341 	|
+| October 15, 2019 	| milestone 	| Solving Rubik’s Cube with a robot hand 	| https://openai.com/research/solving-rubiks-cube 	| https://arxiv.org/abs/1910.07113 	|
+| September 17, 2019 	| milestone 	| Emergent tool use from multi-agent interaction 	| https://openai.com/research/emergent-tool-use 	| https://arxiv.org/abs/1909.07528 	|
+| April 25, 2019 	| milestone 	| MuseNet 	| https://openai.com/research/musenet 	|  	|
+| February 14, 2019 	| milestone 	| Better language models and their implications 	| https://openai.com/research/better-language-models 	| https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf 	|
+| December 14, 2018 	| milestone 	| How AI training scales 	| https://openai.com/research/how-ai-training-scales 	| https://arxiv.org/pdf/1812.06162.pdf 	|
+| July 30, 2018 	| milestone 	| Learning dexterity 	| https://openai.com/research/learning-dexterity 	| https://arxiv.org/abs/1808.00177 	|
+| July 9, 2018 	| milestone 	| Glow: Better reversible generative models 	| https://openai.com/research/glow 	| https://arxiv.org/abs/1807.03039 	|
+| March 17, 2023 	| publication 	| GPTs are GPTs: An early look at the labor market impact potential of large language models 	| https://openai.com/research/gpts-are-gpts 	| https://arxiv.org/abs/2303.10130 	|
+| March 14, 2023 	| publication 	| GPT-4 	| https://openai.com/research/gpt-4 	| https://arxiv.org/abs/2303.08774 	|
+| January 11, 2023 	| publication 	| Forecasting potential misuses of language models for disinformation campaigns and how to reduce risk 	| https://openai.com/research/forecasting-misuse 	| https://arxiv.org/abs/2301.04246 	|
+| December 16, 2022 	| publication 	| Point-E: A system for generating 3D point clouds from complex prompts 	| https://openai.com/research/point-e 	| https://arxiv.org/abs/2212.08751 	|
+| October 19, 2022 	| publication 	| Scaling laws for reward model overoptimization 	| https://openai.com/research/scaling-laws-for-reward-model-overoptimization 	| https://arxiv.org/abs/2210.10760 	|
+| September 21, 2022 	| publication 	| Introducing Whisper 	| https://openai.com/research/whisper 	| https://cdn.openai.com/papers/whisper.pdf 	|
+| July 28, 2022 	| publication 	| Efficient training of language models to fill in the middle 	| https://openai.com/research/efficient-training-of-language-models-to-fill-in-the-middle 	| https://arxiv.org/abs/2207.14255 	|
+| July 25, 2022 	| publication 	| A hazard analysis framework for code synthesis large language models 	| https://openai.com/research/a-hazard-analysis-framework-for-code-synthesis-large-language-models 	| https://arxiv.org/abs/2207.14157 	|
+| June 23, 2022 	| publication 	| Learning to play Minecraft with Video PreTraining 	| https://openai.com/research/vpt 	| https://arxiv.org/abs/2206.11795 	|
+| June 17, 2022 	| publication 	| Evolution through large models 	| https://openai.com/research/evolution-through-large-models 	| https://arxiv.org/abs/2206.08896 	|
+| June 13, 2022 	| publication 	| AI-written critiques help humans notice flaws 	| https://openai.com/research/critiques 	| https://arxiv.org/abs/2206.05802 	|
+| May 28, 2022 	| publication 	| Teaching models to express their uncertainty in words 	| https://openai.com/research/teaching-models-to-express-their-uncertainty-in-words 	| https://arxiv.org/abs/2205.14334 	|
+| April 13, 2022 	| publication 	| Hierarchical text-conditional image generation with CLIP latents 	| https://openai.com/research/hierarchical-text-conditional-image-generation-with-clip-latents 	| https://arxiv.org/abs/2204.06125 	|
+| March 3, 2022 	| publication 	| A research agenda for assessing the economic impacts of code generation models 	| https://openai.com/research/economic-impacts 	| https://cdn.openai.com/papers/Economic_Impacts_Research_Agenda.pdf 	|
+| February 2, 2022 	| publication 	| Solving (some) formal math olympiad problems 	| https://openai.com/research/formal-math 	| https://arxiv.org/abs/2202.01344 	|
+| January 27, 2022 	| publication 	| Aligning language models to follow instructions 	| https://openai.com/research/instruction-following 	| https://arxiv.org/abs/2203.02155 	|
+| January 24, 2022 	| publication 	| Text and code embeddings by contrastive pre-training 	| https://openai.com/research/text-and-code-embeddings-by-contrastive-pre-training 	| https://arxiv.org/abs/2201.10005 	|
+| December 16, 2021 	| publication 	| WebGPT: Improving the factual accuracy of language models through web browsing 	| https://openai.com/research/webgpt 	| https://arxiv.org/abs/2112.09332 	|
+| October 29, 2021 	| publication 	| Solving math word problems 	| https://openai.com/research/solving-math-word-problems 	| http://arxiv.org/abs/2110.14168 	|
+| September 23, 2021 	| publication 	| Summarizing books with human feedback 	| https://openai.com/research/summarizing-books 	|  	|
+| September 21, 2022 	| release 	| Introducing Whisper 	| https://openai.com/research/whisper 	| https://cdn.openai.com/papers/whisper.pdf 	|
+| June 23, 2022 	| release 	| Learning to play Minecraft with Video PreTraining 	| https://openai.com/research/vpt 	| https://arxiv.org/abs/2206.11795 	|
+| July 28, 2021 	| release 	| Introducing Triton: Open-source GPU programming for neural networks 	| https://openai.com/research/triton 	|  	|
+| March 4, 2021 	| release 	| Multimodal neurons in artificial neural networks 	| https://openai.com/research/multimodal-neurons 	| https://distill.pub/2021/multimodal-neurons/ 	|
+| January 5, 2021 	| release 	| DALL·E: Creating images from text 	| https://openai.com/research/dall-e 	|  	|
+| January 5, 2021 	| release 	| CLIP: Connecting text and images 	| https://openai.com/research/clip 	| https://arxiv.org/abs/2103.00020 	|
+| September 4, 2020 	| release 	| Learning to summarize with human feedback 	| https://openai.com/research/learning-to-summarize-with-human-feedback 	| https://arxiv.org/abs/2009.01325 	|
+| June 17, 2020 	| release 	| Image GPT 	| https://openai.com/research/image-gpt 	| https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf 	|
+| April 30, 2020 	| release 	| Jukebox 	| https://openai.com/research/jukebox 	| https://arxiv.org/abs/2005.00341 	|
+| April 14, 2020 	| release 	| OpenAI Microscope 	| https://openai.com/research/microscope 	|  	|
+| December 3, 2019 	| release 	| Procgen Benchmark 	| https://openai.com/research/procgen-benchmark 	| https://arxiv.org/abs/1912.01588 	|
+| November 21, 2019 	| release 	| Safety Gym 	| https://openai.com/research/safety-gym 	| https://cdn.openai.com/safexp-short.pdf 	|
+| November 5, 2019 	| release 	| GPT-2: 1.5B release 	| https://openai.com/research/gpt-2-1-5b-release 	| https://arxiv.org/abs/1908.09203 	|
+| September 19, 2019 	| release 	| Fine-tuning GPT-2 from human preferences 	| https://openai.com/research/fine-tuning-gpt-2 	| https://arxiv.org/abs/1909.08593 	|
+| September 17, 2019 	| release 	| Emergent tool use from multi-agent interaction 	| https://openai.com/research/emergent-tool-use 	| https://arxiv.org/abs/1909.07528 	|
+| August 22, 2019 	| release 	| Testing robustness against unforeseen adversaries 	| https://openai.com/research/testing-robustness 	| http://arxiv.org/abs/1908.08016 	|
+| August 20, 2019 	| release 	| GPT-2: 6-month follow-up 	| https://openai.com/research/gpt-2-6-month-follow-up 	| https://arxiv.org/abs/1908.09203 	|
+| April 23, 2019 	| release 	| Generative modeling with sparse transformers 	| https://openai.com/research/sparse-transformer 	| https://arxiv.org/abs/1904.10509 	|
+| March 21, 2019 	| release 	| Implicit generation and generalization methods for energy-based models 	| https://openai.com/research/energy-based-models 	| http://arxiv.org/abs/1903.08689 	|
+| March 6, 2019 	| release 	| Introducing Activation Atlases 	| https://openai.com/research/introducing-activation-atlases 	| https://distill.pub/2019/activation-atlas/ 	|
