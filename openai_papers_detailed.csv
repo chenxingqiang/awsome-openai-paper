@@ -1,0 +1,19 @@
+date_published,title,authors,type,category,arxiv_id,openai_link,parameters,key_contribution,status
+2018-06-11,Improving Language Understanding by Generative Pre-Training,Alec Radford et al.,Technical Report,GPT-1,,https://openai.com/research/improving-language-understanding-unsupervised,117M,First GPT model with unsupervised pre-training,Published
+2019-02-14,Language Models are Unsupervised Multitask Learners,Alec Radford et al.,Technical Report,GPT-2,,https://openai.com/research/better-language-models,1.5B,Zero-shot task transfer capabilities,Published
+2020-05-28,Language Models are Few-Shot Learners,Tom Brown et al.,Research Paper,GPT-3,2005.14165,https://arxiv.org/abs/2005.14165,175B,Few-shot learning without fine-tuning,Published
+2020-12-08,Zero-Shot Text-to-Image Generation,Aditya Ramesh et al.,Research Paper,DALL-E,2012.09841,https://arxiv.org/abs/2012.09841,12B,Transformer-based text-to-image generation,Published
+2021-02-26,Learning Transferable Visual Models From Natural Language Supervision,Alec Radford et al.,Research Paper,CLIP,2103.00020,https://arxiv.org/abs/2103.00020,,Contrastive vision-language pre-training,Published
+2021-12-22,Hierarchical Text-Conditional Image Generation with CLIP Latents,Aditya Ramesh et al.,Research Paper,DALL-E 2,2204.06125,https://arxiv.org/abs/2204.06125,,Diffusion-based image generation with CLIP guidance,Published
+2022-03-04,Training Language Models to Follow Instructions with Human Feedback,Long Ouyang et al.,Research Paper,InstructGPT,2203.02155,https://arxiv.org/abs/2203.02155,1.3B,RLHF for instruction following,Published
+2022-12-06,Robust Speech Recognition via Large-Scale Weak Supervision,Alec Radford et al.,Research Paper,Whisper,2212.04356,https://arxiv.org/abs/2212.04356,1.5B,Multilingual speech recognition,Published
+2023-03-15,GPT-4 Technical Report,OpenAI,Technical Report,GPT-4,2303.08774,https://arxiv.org/abs/2303.08774,,Multimodal large language model,Published
+2023-09-20,DALL-E 3 System Card,OpenAI,System Card,DALL-E 3,,https://cdn.openai.com/dall-e-3-system-card.pdf,,Enhanced safety and prompt following,Published
+2023-09-25,GPT-4V(ision) System Card,OpenAI,System Card,GPT-4V,,https://cdn.openai.com/gpt-4v-system-card.pdf,,Vision capabilities safety evaluation,Published
+2024-02-15,Video generation models as world simulators,OpenAI,Technical Report,Sora,,https://openai.com/research/video-generation-models,,Text-to-video generation with temporal consistency,Published
+2024-05-13,Hello GPT-4o,OpenAI,Product Launch,GPT-4o,,https://openai.com/index/hello-gpt-4o/,,Multimodal audio-vision-text capabilities,Published
+2024-10-15,GPT-4o System Card,OpenAI,System Card,GPT-4o,2410.21276,https://arxiv.org/abs/2410.21276,,Native multimodal capabilities,Published
+2024-09-12,OpenAI o1 System Card,OpenAI,System Card,o1,2412.16720,https://arxiv.org/abs/2412.16720,,Chain-of-thought reasoning with deliberative alignment,Published
+2024-12-20,OpenAI o3 System Card,OpenAI,System Card,o3,,https://openai.com/research/o3-system-card,,Advanced reasoning capabilities,Published
+2024-12-01,Deliberative Alignment in Large Language Models,OpenAI,Research Paper,Alignment,,https://openai.com/research/deliberative-alignment,,Advanced safety alignment techniques,Published
+2024-11-15,GPT-4.1 Technical Report,OpenAI,Technical Report,GPT-4.1,2504.17621,https://arxiv.org/abs/2504.17621,,Enhanced long-context capabilities (1M tokens),Published

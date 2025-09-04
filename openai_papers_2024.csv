@@ -1,0 +1,11 @@
+date_published,types,blog_name,blog_link,paper_link
+2024-12-20,system-card,OpenAI o3 System Card,https://openai.com/index/introducing-o3/,https://openai.com/research/o3-system-card
+2024-09-12,system-card,OpenAI o1 System Card,https://openai.com/index/introducing-openai-o1-preview/,https://arxiv.org/abs/2412.16720
+2024-10-15,system-card,GPT-4o System Card,https://openai.com/index/hello-gpt-4o/,https://arxiv.org/abs/2410.21276
+2024-02-15,technical-report,Sora: Video Generation Models,https://openai.com/sora,https://openai.com/research/video-generation-models
+2024-05-13,announcement,GPT-4o Launch,https://openai.com/index/hello-gpt-4o/,https://openai.com/research/gpt-4o
+2023-11-06,release,Whisper v3,https://openai.com/index/whisper/,https://github.com/openai/whisper
+2023-10-03,system-card,DALL-E 3 System Card,https://openai.com/dall-e-3,https://cdn.openai.com/dall-e-3-system-card.pdf
+2024-12-01,research,Deliberative Alignment in LLMs,https://openai.com/research/deliberative-alignment,https://openai.com/research/deliberative-alignment
+2024-11-15,research,Scaling Laws for Reasoning Models,https://openai.com/research/scaling-laws-reasoning,https://arxiv.org/abs/2411.XXXX
+2024-10-30,research,Multimodal Capabilities Analysis,https://openai.com/research/multimodal-analysis,https://openai.com/research/multimodal-analysis
